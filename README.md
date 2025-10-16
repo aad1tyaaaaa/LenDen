@@ -1,5 +1,5 @@
 
-# Modular Design for LeinDen
+# Modular Design for LenDen
 
 This is a code bundle for Modular Design for LenDen. 
 
