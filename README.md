@@ -185,7 +185,7 @@ The project follows a modular architecture with:
 
 ## 👥 Contributors
 
-We'd like to thank the following contributors for their valuable contributions to LeinDen:
+We'd like to thank the following contributors for their valuable contributions to LenDen:
 
 <img src="public/contributors.jpeg" alt="Contributors" width="600"/>
 
