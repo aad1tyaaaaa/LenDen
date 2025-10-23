@@ -1,13 +1,31 @@
 
-# Modular Design for LenDen
+# Modular Design for LeinDen
 
-This is a code bundle for Modular Design for LenDen. 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
 
-## Running the code
+A comprehensive financial management application designed to empower users with tools for debt tracking, savings management, community investments, and expert financial advice. Built with a modular architecture to ensure scalability and maintainability.
 
-Run `npm i` to install the dependencies.
+## 🚀 Getting Started
 
-Run `npm run dev` to start the development server.
+### Prerequisites
+- Node.js (version 16 or higher)
+- npm or yarn
+
+### Installation
+```bash
+npm install
+```
+
+### Running the Application
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:5173` (default Vite port).
 
 ## ✨ Features
 
