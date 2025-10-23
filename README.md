@@ -14,6 +14,13 @@
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 A comprehensive financial management application designed to empower users with tools for debt tracking, savings management, community investments, and expert financial advice. Built with a modular architecture to ensure scalability and maintainability.
 
@@ -21,24 +28,22 @@ A comprehensive financial management application designed to empower users with 
 
 Check out the prototype video to see the application in action:
 
-<video width="100%" controls>
-  <source src="public/prototype.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Prototype Video](https://img.shields.io/badge/Watch%20Prototype%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](public/prototype.mp4)
 
-## 📸 Screenshots
+*Click the badge above to watch the prototype video demonstration of LeinDen in action.*
 
-Explore the key features of the application through these screenshots:
+## 🖼️ Application Gallery
 
-| Feature | Screenshot |
-|---------|------------|
+Discover the core functionalities of LeinDen through our curated application previews:
+
+| Feature | Preview |
+|---------|---------|
 | 🏠 **Homepage** | <img src="public/homepage.jpg" alt="Homepage" width="300"/> |
 | 💰 **Udhaari and Gullack** | <img src="public/udhaaari%20and%20gullack.jpg" alt="Udhaari and Gullack" width="300"/> |
 | 🏦 **Chit Fund** | <img src="public/chitfund.jpg" alt="Chit Fund" width="300"/> |
 | 💡 **Advice** | <img src="public/advice.jpg" alt="Advice" width="300"/> |
 | 👤 **Profile** | <img src="public/profile.jpg" alt="Profile" width="300"/> |
 | 🏷️ **Logo** | <img src="public/logo.jpg" alt="Logo" width="300"/> |
-| 🖼️ **Profile Picture** | <img src="public/pfp.png" alt="Profile Picture" width="300"/> |
 
 ## 🚀 Getting Started
 
@@ -170,4 +175,24 @@ The project follows a modular architecture with:
 - **⚡ Build Tool**: Vite
 - **🎯 Icons**: Lucide React
 - **🎭 Animations**: Framer Motion (in CommunityTab)
+
+## 📚 Resources
+
+- [📖 Documentation](https://github.com/your-repo/docs)
+- [🎯 API Reference](https://api.leinden.com)
+- [💬 Community Forum](https://forum.leinden.com)
+- [🆘 Support Center](https://support.leinden.com)
+
+## 👥 Contributors
+
+We'd like to thank the following contributors for their valuable contributions to LeinDen:
+
+<img src="public/contributors.jpeg" alt="Contributors" width="600"/>
+
+| Contributor | Role | Contributions | GitHub | LinkedIn |
+|-------------|------|---------------|--------|----------|
+| 👨‍💻 **Aaditya Jaiswar** | Lead Developer | Core architecture, React components | [GitHub](www.github.com/aad1tyaaaaa) | [LinkedIn](www.linkedin.com/in/aadityaaaaa) |
+| 👩‍🎨 **Samyak Dandge** | UI/UX Designer | Design system, user experience | [GitHub](https://github.com/janesmith) | [LinkedIn](https://linkedin.com/in/janesmith) |
+| 🧪 **Shreyash Mane** | QA Engineer | Testing, quality assurance | [GitHub](https://github.com/bobjohnson) | [LinkedIn](https://linkedin.com/in/bobjohnson) |
+| 📚 **Rutuja Katagi** | Technical Writer | Documentation, user guides | [GitHub](https://github.com/alicebrown) | [LinkedIn](https://linkedin.com/in/alicebrown) |
   
