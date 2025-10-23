@@ -9,8 +9,36 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-0AC775?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
 [![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)](https://www.i18next.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=Render&logoColor=white)](https://render.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 A comprehensive financial management application designed to empower users with tools for debt tracking, savings management, community investments, and expert financial advice. Built with a modular architecture to ensure scalability and maintainability.
+
+## 📹 Prototype Video
+
+Check out the prototype video to see the application in action:
+
+<video width="100%" controls>
+  <source src="public/prototype.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## 📸 Screenshots
+
+Explore the key features of the application through these screenshots:
+
+| Feature | Screenshot |
+|---------|------------|
+| 🏠 **Homepage** | <img src="public/homepage.jpg" alt="Homepage" width="300"/> |
+| 💰 **Udhaari and Gullack** | <img src="public/udhaaari%20and%20gullack.jpg" alt="Udhaari and Gullack" width="300"/> |
+| 🏦 **Chit Fund** | <img src="public/chitfund.jpg" alt="Chit Fund" width="300"/> |
+| 💡 **Advice** | <img src="public/advice.jpg" alt="Advice" width="300"/> |
+| 👤 **Profile** | <img src="public/profile.jpg" alt="Profile" width="300"/> |
+| 🏷️ **Logo** | <img src="public/logo.jpg" alt="Logo" width="300"/> |
+| 🖼️ **Profile Picture** | <img src="public/pfp.png" alt="Profile Picture" width="300"/> |
 
 ## 🚀 Getting Started
 
