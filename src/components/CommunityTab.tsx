@@ -186,7 +186,7 @@ export default function CommunityTab() {
               exit={{ opacity: 0, y: -20 }}
               transition={{ duration: 0.3 }}
             >
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4 md:gap-6">
                 {chitFundSchemes.map((scheme) => (
                   <Card key={scheme.id} className="flex flex-col justify-between bg-gradient-to-br from-blue-500/20 to-purple-500/20 backdrop-blur-md border border-white/20 shadow-lg hover:shadow-xl hover:shadow-blue-500/30 transition-all duration-300 p-4">
                     <CardHeader className="flex items-center space-x-2 pb-2">
